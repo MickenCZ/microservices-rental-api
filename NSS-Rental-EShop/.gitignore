@@ -1,0 +1,6 @@
+/logs/
+/.idea/
+/data/
+/loggingservice/logs/
+/productservice/data/
+/userservice/data/
