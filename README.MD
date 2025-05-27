@@ -5,6 +5,8 @@ Aplikace slouží jako digitální platforma pro půjčování zahradního vybav
 
 Motivací na vývoj je nezávislé škálování jednotlivých komponent systému a jejich samostatné nasazení, protože jejich vytíženost se hodně liší.
 
+V projektu jsem si chtěl vyzkoušet docker, docker compose, kafku, elastic, caching a podobné věci.
+
 # Spuštění
 Je použit docker a docker compose, je doporučené použít docker desktop.
 
